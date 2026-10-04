@@ -53,4 +53,11 @@ The user owns the decisions recorded here. Unresolved fields may remain blank; d
 
 ## First-minute narrative
 
-[Not planned yet]
+
+**User problem:** People who are hard of hearing miss the signals that matter most in daily life: a doorbell or knock, a smoke alarm, a siren, a crying baby, someone calling their name. Missing them is a safety risk and a source of exclusion. Existing solutions are single-purpose hardware that handle one sound each.
+
+**Desired demonstration:** [Not decided yet]
+
+**Lead challenge theme:** [Intelligent Experiences / Spatial Experiences / Human-Centric Technology - not chosen yet]
+
+**Distinctive platform capability:** Microphone capture, vibration and notifications on a Huawei phone, with sound analysis done on the device by a native C++ engine (no cloud, no stored audio).
