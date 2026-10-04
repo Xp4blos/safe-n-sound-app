@@ -1,5 +1,8 @@
 # Safe'n'Sound
 
+# YouTube Trailer:
+https://www.youtube.com/watch?v=b1Cgo1sk5dw
+
 HarmonyOS phone app (API 20+) for deaf and hard-of-hearing people. It listens through the microphone and turns
 alarms, sirens, beeps, a crying baby, knocks, doorbells and your own taught sounds into vibration, notifications and
 on-screen cards, adds live captions with keyword alerts ("help", "watch out"), and keeps listening in the background.
