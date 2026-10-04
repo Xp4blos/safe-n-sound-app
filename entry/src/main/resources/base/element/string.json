@@ -1,0 +1,412 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "Safe'n'Sound main module"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "Turns important sounds around you into vibration and notifications"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Safe'n'Sound"
+    },
+    {
+      "name": "mic_reason",
+      "value": "Safe'n'Sound listens through the microphone to detect alarms, beeps and door rings. Audio is analysed on this device only and is never stored or sent anywhere."
+    },
+    {
+      "name": "tab_listen",
+      "value": "Listen"
+    },
+    {
+      "name": "tab_history",
+      "value": "History"
+    },
+    {
+      "name": "btn_start",
+      "value": "Start listening"
+    },
+    {
+      "name": "btn_stop",
+      "value": "Stop listening"
+    },
+    {
+      "name": "btn_retry",
+      "value": "Allow microphone and retry"
+    },
+    {
+      "name": "state_idle",
+      "value": "Not listening"
+    },
+    {
+      "name": "state_starting",
+      "value": "Starting…"
+    },
+    {
+      "name": "state_listening",
+      "value": "Listening"
+    },
+    {
+      "name": "state_permission_denied",
+      "value": "Microphone access is needed to hear sounds. Nothing is recorded or sent anywhere."
+    },
+    {
+      "name": "state_error",
+      "value": "Listening stopped unexpectedly. Tap to try again."
+    },
+    {
+      "name": "chart_caption_start",
+      "value": "8 s ago"
+    },
+    {
+      "name": "chart_caption_end",
+      "value": "now"
+    },
+    {
+      "name": "last_detected",
+      "value": "Last detected"
+    },
+    {
+      "name": "nothing_yet",
+      "value": "No sound detected yet"
+    },
+    {
+      "name": "notifications_off",
+      "value": "Notifications are off, so named sounds will only vibrate."
+    },
+    {
+      "name": "sound_default_name",
+      "value": "Sound #%d"
+    },
+    {
+      "name": "sound_new_suffix",
+      "value": "New"
+    },
+    {
+      "name": "kind_tonal",
+      "value": "Beep or alarm"
+    },
+    {
+      "name": "kind_pulsed",
+      "value": "Repeated beeps or ring"
+    },
+    {
+      "name": "heard_times",
+      "value": "Heard %d times"
+    },
+    {
+      "name": "last_seen",
+      "value": "Last heard %s"
+    },
+    {
+      "name": "at_time",
+      "value": "at %s"
+    },
+    {
+      "name": "empty_history",
+      "value": "Heard sounds will appear here. Start listening, then tap a sound to name it."
+    },
+    {
+      "name": "dialog_title",
+      "value": "Name this sound"
+    },
+    {
+      "name": "dialog_name_hint",
+      "value": "For example: Doorbell"
+    },
+    {
+      "name": "dialog_alerts",
+      "value": "Notify me when heard again"
+    },
+    {
+      "name": "btn_save",
+      "value": "Save"
+    },
+    {
+      "name": "btn_cancel",
+      "value": "Cancel"
+    },
+    {
+      "name": "alerts_label",
+      "value": "Alerts"
+    },
+    {
+      "name": "tab_mysounds",
+      "value": "My sounds"
+    },
+    {
+      "name": "unknown_sound",
+      "value": "Unknown sound"
+    },
+    {
+      "name": "learning_sound",
+      "value": "Learning this sound…"
+    },
+    {
+      "name": "teach_button",
+      "value": "Teach a sound"
+    },
+    {
+      "name": "teach_title",
+      "value": "Teach a sound"
+    },
+    {
+      "name": "teach_intro",
+      "value": "Play the sound near the phone and record 2 or 3 takes of it. Each take lasts 6 seconds."
+    },
+    {
+      "name": "teach_record",
+      "value": "Record take %d"
+    },
+    {
+      "name": "teach_recording",
+      "value": "Recording… play the sound now (%d s)"
+    },
+    {
+      "name": "teach_take_ok",
+      "value": "Take %d captured"
+    },
+    {
+      "name": "teach_take_bad",
+      "value": "Take %d not usable: %s"
+    },
+    {
+      "name": "teach_name_hint",
+      "value": "Name, for example Microwave alarm"
+    },
+    {
+      "name": "teach_save",
+      "value": "Save sound"
+    },
+    {
+      "name": "teach_need_two",
+      "value": "Record at least 2 good takes, then name the sound."
+    },
+    {
+      "name": "teach_failed",
+      "value": "Could not save the sound: %s"
+    },
+    {
+      "name": "alert_card_title",
+      "value": "%s detected"
+    },
+    {
+      "name": "alert_card_time",
+      "value": "at %s"
+    },
+    {
+      "name": "alert_ongoing",
+      "value": "Still ongoing: heard %d times in the last 30 seconds"
+    },
+    {
+      "name": "alert_once",
+      "value": "Heard %d times so far"
+    },
+    {
+      "name": "prompt_title",
+      "value": "I've heard this sound before"
+    },
+    {
+      "name": "prompt_text",
+      "value": "Do you want to name it?"
+    },
+    {
+      "name": "prompt_name",
+      "value": "Name it"
+    },
+    {
+      "name": "prompt_later",
+      "value": "Not now"
+    },
+    {
+      "name": "prompt_never",
+      "value": "Don't ask again for this sound"
+    },
+    {
+      "name": "detail_title",
+      "value": "Sound details"
+    },
+    {
+      "name": "detail_alerts",
+      "value": "Notify me when heard"
+    },
+    {
+      "name": "detail_delete",
+      "value": "Delete sound"
+    },
+    {
+      "name": "detail_delete_confirm",
+      "value": "Tap again to delete for good"
+    },
+    {
+      "name": "mysounds_empty",
+      "value": "Named sounds appear here. Name a sound from History, or teach a new one on the Listen tab."
+    },
+    {
+      "name": "first_heard",
+      "value": "First heard %s"
+    },
+    {
+      "name": "app_title",
+      "value": "Safe'n'Sound"
+    },
+    {
+      "name": "tap_to_start",
+      "value": "Tap the microphone to start listening"
+    },
+    {
+      "name": "tap_to_stop",
+      "value": "Tap the microphone to stop"
+    },
+    {
+      "name": "state_chip_error",
+      "value": "Problem"
+    },
+    {
+      "name": "state_chip_denied",
+      "value": "No microphone access"
+    },
+    {
+      "name": "teach_icon_hint",
+      "value": "Teach a sound"
+    },
+    {
+      "name": "section_sounds",
+      "value": "Sounds heard"
+    },
+    {
+      "name": "tab_captions",
+      "value": "Captions"
+    },
+    {
+      "name": "tab_settings",
+      "value": "Settings"
+    },
+    {
+      "name": "captions_title",
+      "value": "Captions"
+    },
+    {
+      "name": "captions_live",
+      "value": "Listening for speech"
+    },
+    {
+      "name": "captions_idle",
+      "value": "Start listening on the Listen tab to get live captions"
+    },
+    {
+      "name": "captions_off",
+      "value": "Speech is switched off in Settings"
+    },
+    {
+      "name": "captions_note",
+      "value": "The system recogniser understands Mandarin, so captions may show Chinese characters. English words such as help or watch out still raise alerts."
+    },
+    {
+      "name": "captions_empty",
+      "value": "Nothing heard yet"
+    },
+    {
+      "name": "captions_clear",
+      "value": "Clear"
+    },
+    {
+      "name": "keywords_title",
+      "value": "Keywords"
+    },
+    {
+      "name": "keywords_hint",
+      "value": "New word or phrase"
+    },
+    {
+      "name": "keywords_add",
+      "value": "Add"
+    },
+    {
+      "name": "keywords_remove",
+      "value": "Remove"
+    },
+    {
+      "name": "vib_sos",
+      "value": "SOS"
+    },
+    {
+      "name": "vib_rapid",
+      "value": "Rapid"
+    },
+    {
+      "name": "vib_long",
+      "value": "Long"
+    },
+    {
+      "name": "vib_double",
+      "value": "Double"
+    },
+    {
+      "name": "simulate_title",
+      "value": "Test input (simulated)"
+    },
+    {
+      "name": "simulate_hint",
+      "value": "Type words as if they were heard"
+    },
+    {
+      "name": "simulate_btn",
+      "value": "Simulate"
+    },
+    {
+      "name": "settings_title",
+      "value": "Settings"
+    },
+    {
+      "name": "settings_classes",
+      "value": "Alert me about"
+    },
+    {
+      "name": "settings_how",
+      "value": "How to alert"
+    },
+    {
+      "name": "settings_listening",
+      "value": "Listening"
+    },
+    {
+      "name": "settings_speech",
+      "value": "Speech"
+    },
+    {
+      "name": "set_vibrate",
+      "value": "Vibrate"
+    },
+    {
+      "name": "set_notify",
+      "value": "Notifications"
+    },
+    {
+      "name": "set_background",
+      "value": "Keep listening in the background"
+    },
+    {
+      "name": "set_autostart",
+      "value": "Start listening when the app opens"
+    },
+    {
+      "name": "set_speech",
+      "value": "Captions and keywords"
+    },
+    {
+      "name": "set_partial",
+      "value": "React to words while still speaking"
+    },
+    {
+      "name": "set_unknown_note",
+      "value": "Learned and taught sounds always alert. Switch them off one by one in My sounds."
+    },
+    {
+      "name": "keyword_card",
+      "value": "Heard a keyword"
+    }
+  ]
+}

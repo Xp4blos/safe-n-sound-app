@@ -1,0 +1,6 @@
+{
+  "name": "libsafensound.so",
+  "types": "./index.d.ts",
+  "version": "1.0.0",
+  "description": "Native sound detection engine for Safe'n'Sound."
+}
