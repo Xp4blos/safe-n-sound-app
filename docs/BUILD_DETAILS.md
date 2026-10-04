@@ -225,14 +225,3 @@ earlier recording and by the tests. The vibration itself cannot be filmed. `docs
 
 There is deliberately no license file: this is the team's own work, all rights reserved by the authors.
 
-## Prior code and AI use
-
-- `entry/src/main/cpp/ambient` is the sound engine written by members of the team for this hackathon. It was first
-  taken from https://github.com/Xp4blos/hack-yeah-2026 (commit `512e41d`) and, in the merge with the team's second
-  concept (https://github.com/INawrot/Ambient, `AmbientApp`), replaced by that repository's newer engine (adds chirp,
-  cry, siren, scream, speech keywords and false-alarm control) with small additions of ours (strict teaching options,
-  see `entry/src/main/cpp/ambient/CHANGES.md`). The app icon comes from the same concept repository.
-- No third-party open-source code is bundled besides the HarmonyOS SDK, hypium/hamock test libraries (installed
-  by `ohpm`) and the DevEco toolchain.
-- AI assistants were used throughout; see `AI_WORKFLOW.md` for tools, prompts, validation and the bugs found
-  during phone testing.
